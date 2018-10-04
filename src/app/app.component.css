@@ -1,0 +1,10 @@
+section{
+    margin: 1% 2%;
+}
+mat-card{
+    margin-bottom: 16px;
+}
+.inner-mat{
+    padding: 12px;
+    margin-bottom: 8px;
+}
